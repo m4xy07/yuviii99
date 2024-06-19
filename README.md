@@ -30,7 +30,7 @@
 <p align="center">
 <h3><samp>Programming Languages</samp></h3>  
   
-<a>![Languages](https://skillicons.dev/icons?i=ruby,cpp,java,html,css,js,py,bash&theme=dark)</a>
+<a>![Languages](https://skillicons.dev/icons?i=ruby,c,cpp,java,html,css,js,py,bash&theme=dark)</a>
 
 <h3><samp>Frameworks</samp></h3>  
   
